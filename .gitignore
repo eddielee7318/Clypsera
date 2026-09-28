@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+artifacts/
+outputs/
+packages/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.bak
+history.jsonl
+library.json
+annotations.json
