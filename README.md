@@ -1,8 +1,25 @@
-# Clypsera 26
+<p align="center">
+  <img src="Assets/Clypsera.png" alt="Clypsera" width="120">
+</p>
+
+<h1 align="center">Clypsera 26</h1>
+
+<p align="center">
+  收集、整理、检索和阅读个人资料的 Windows 桌面工具<br>
+  把零散剪贴内容、文档、电子书和批注整理成自己的资料库。
+</p>
+
+<p align="center">
+  <a href="https://github.com/eddielee7318/Clypsera/releases/latest"><strong>下载最新版</strong></a>
+  ·
+  <a href="#使用">使用指南</a>
+  ·
+  <a href="#从源码构建">源码构建</a>
+</p>
+
+> 推荐下载 `Clypsera-v26-Setup.exe` 完成当前用户安装。安装包内置《Clypsera v26 零基础使用手册》，安装后可从开始菜单直接打开。当前发布包未进行商业代码签名，首次运行时可使用 Release 页面提供的 SHA-256 核对文件。
 
 作者：**eddielee7318 BJC**
-
-用于收集、整理和阅读个人资料的桌面工具。推荐运行 `Clypsera-v26-Setup.exe` 完成当前用户安装。安装包内置《Clypsera v26 零基础使用手册》，安装后可从开始菜单直接打开。
 
 ## 功能
 
